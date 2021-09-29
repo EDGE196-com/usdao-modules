@@ -1,2 +1,2 @@
-# usdao-nft-template
-NFT template for USDAO stablecoin sdk
+# usdao-modules
+Defi, NFT modules for USDAO stablecoin sdk
