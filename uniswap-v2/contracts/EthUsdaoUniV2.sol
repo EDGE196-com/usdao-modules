@@ -26,6 +26,10 @@
     * IMPORTANT - to in both functions depends on usecase. to can be a normal address or in some
       case it can also be the contract address itself. 
 
+
+    LIQUIDITY
+    https://rinkeby.etherscan.io/tx/0xbf0fdb331641117ad179f4117ad1392838a26ada80051cb5b3eb57fe49f3149e  
+
 */
 
 pragma solidity ^0.8.0;
