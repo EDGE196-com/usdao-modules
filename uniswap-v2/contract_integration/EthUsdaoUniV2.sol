@@ -43,7 +43,7 @@ contract EthUsdaoUniV2 {
 
   IUniswapV2Router02 public uniswapRouter;
   
-  //address private USDAO Rinkeby = 0x585fcE75fC4F4cC2943AAD3B7726962190441bA1;
+  //address USDAO Rinkeby = 0x585fcE75fC4F4cC2943AAD3B7726962190441bA1;
   IERC20 ercToken;
 
   constructor(address _ercTokenAddress) {
